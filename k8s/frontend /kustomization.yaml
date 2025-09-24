@@ -13,3 +13,4 @@ configMapGenerator:
       - config.json=config/frontend-config.json
 
 generatorOptions:
+  disableNameSuffixHash: true
